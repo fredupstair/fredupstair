@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://mvp.microsoft.com/it-it/PublicProfile/5004292? fullName=Federico%20Porceddu">
-    <img src="https://img.shields.io/badge/Microsoft-MVP-blue? style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft MVP" />
+    <img src="https://img.shields.io/badge/Microsoft-MVP-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft MVP" />
   </a> 
   <a href="https://www.federicoporceddu.com">
     <img src="https://img.shields.io/badge/Website-federicoporceddu.com-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://twitter.com/FedericoSPDev">
-    <img src="https://img.shields. io/twitter/follow/FedericoSPDev?style=for-the-badge&logo=x&logoColor=white&label=Follow%20%40FedericoSPDev&color=000000" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/FedericoSPDev?style=for-the-badge&logo=x&logoColor=white&label=Follow%20%40FedericoSPDev&color=000000" alt="Twitter" />
   </a>
   <a href="https://bsky.app/profile/federicoporceddu.com">
     <img src="https://img.shields.io/badge/Bluesky-federicoporceddu-1185FE?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
@@ -58,7 +58,7 @@ With extensive experience in designing and implementing enterprise-level solutio
 
 <div align="center">
   <a href="https://www.copilotespresso.com/">
-    <img src="https://img. shields.io/badge/🎧_Listen_Now-Copilot_Espresso-5E5CE6?style=for-the-badge" alt="Listen to Copilot Espresso" />
+    <img src="https://img.shields.io/badge/🎧_Listen_Now-Copilot_Espresso-5E5CE6?style=for-the-badge" alt="Listen to Copilot Espresso" />
   </a>
 </div>
 
@@ -80,32 +80,40 @@ I co-host **[Copilot Espresso](https://www.copilotespresso.com/)** with **Sonia 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365" />
   <img src="https://img.shields.io/badge/Microsoft%20Copilot-5E5CE6?style=for-the-badge&logo=microsoftcopilot&logoColor=white" alt="Copilot" />
-  <img src="https://img.shields.io/badge/SharePoint-0078D4? style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
   <img src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Teams" />
   <img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Platform" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img. shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields. io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img. shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img. shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields. io/badge/Graph%20API-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Graph API" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Graph%20API-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Graph API" />
 </p>
+ 
 
 ---
 
-## 📊 GitHub Stats
+## 💰 Support My Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api? username=fredupstair&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0078D4&icon_color=0078D4&text_color=c9d1d9" alt="Federico's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats. vercel.app/api/top-langs/?username=fredupstair&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9" alt="Top Languages" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fredupstair&theme=dark&hide_border=true&background=0d1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" alt="GitHub Streak" />
-</p>
+### You can help me by donating
+
+<a href='https://ko-fi.com/V7V71PBCTJ' target='_blank'>
+  <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
+
+**Thank you so much for the coffee!**
+
+Your support truly means a lot to me, it's a small gesture that fuels my creativity and motivates me to keep sharing my work with passion. 
+
+I'm genuinely grateful for your generosity. ☕✨
+
+</div>
 
 ---
 
@@ -120,7 +128,7 @@ I co-host **[Copilot Espresso](https://www.copilotespresso.com/)** with **Sonia 
   🎙️ <strong>Podcast:</strong> <a href="https://www.copilotespresso.com/">Copilot Espresso</a><br/>
   🐦 <strong>Twitter:</strong> <a href="https://twitter.com/FedericoSPDev">@FedericoSPDev</a><br/>
   🦋 <strong>Bluesky:</strong> <a href="https://bsky.app/profile/federicoporceddu.com">federicoporceddu.com</a><br/>
-  🏆 <strong>MVP Profile:</strong> <a href="https://mvp.microsoft. com/it-it/PublicProfile/5004292">Microsoft MVP</a>
+  🏆 <strong>MVP Profile:</strong> <a href="https://mvp.microsoft.com/it-it/PublicProfile/5004292">Microsoft MVP</a>
 </p>
 
 ---
@@ -132,10 +140,5 @@ I co-host **[Copilot Espresso](https://www.copilotespresso.com/)** with **Sonia 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api? type=waving&color=0:0078D4,100:50E6FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:50E6FF&height=120&section=footer" />
 </div>
-
-<!--
-fredupstair/fredupstair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
-You can click the Preview link to take a look at your changes.  
--->
