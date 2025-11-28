@@ -97,15 +97,7 @@ I co-host **[Copilot Espresso](https://www.copilotespresso.com/)** with **Sonia 
   <img src="https://img.shields.io/badge/Graph%20API-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Graph API" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fredupstair&theme=dark&hide_border=true&background=0d1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" alt="GitHub Streak" />
-</p>
-
---- 
+ --- 
 
 ## 📫 Let's Connect
 
